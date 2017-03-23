@@ -1,0 +1,17 @@
+{
+  "sender":{
+    "id":"USER_ID"
+  },
+  "recipient":{
+    "id":"PAGE_ID"
+  },
+  "timestamp":1458692752478,
+  "postback":{
+    "payload": Start,
+    "referral": {
+      "ref": http://m.me/https://developers.facebook.com/docs/messenger-platform/guides/quick-start,
+      "source": "SHORTLINK",
+      "type": "OPEN_THREAD",
+    }
+  }
+} 
